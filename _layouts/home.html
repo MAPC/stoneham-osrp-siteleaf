@@ -4,7 +4,8 @@ layout: default
 
 <nav id="nav">
   <ul>
-    {% for section in site.sections %}
+    {% assign sorted_sections = site.sections | sort: 'order' %}
+    {% for section in sorted_sections reversed %}
       <li><a href="#{{ section.title | slugify }}" class="active">{{section.title}}</a></li>  
     {% endfor %}
   </ul>
@@ -12,7 +13,8 @@ layout: default
 
 <div id="main">
 
-  {% for section in site.sections %}
+
+  {% for section in sorted_sections reversed %}
     {% include section.html content=section.content title=section.title id=section.title image=section.image carto-map-embed-link=section.carto-map-embed-link %}
   {% endfor %}
 
