@@ -5,9 +5,6 @@
         <h2>{{include.title}}</h2>
       </header>
       <p>{{include.content}}</p>
-      <ul class="actions">
-        <li><a href="generic.html" class="button">Learn More</a></li>
-      </ul>
       {% if include.carto-map-embed-link != null %}
         <iframe width="99%" style="height: 90vh" frameborder="0" src="{{include.carto-map-embed-link}}" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen=""></iframe>
       {% endif %}
@@ -15,6 +12,5 @@
     {% if include.image != null %}
       <span class="image"><img src="{{include.image}}" alt="" /></span>
     {% endif %}
-
   </div>
 </section>
