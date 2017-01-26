@@ -8,13 +8,13 @@
       <ul class="actions">
         <li><a href="generic.html" class="button">Learn More</a></li>
       </ul>
+      {% if include.carto-map-embed-link != null %}
+        <iframe width="99%" style="height: 90vh" frameborder="0" src="{{include.carto-map-embed-link}}" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen=""></iframe>
+      {% endif %}
     </div>
     {% if include.image != null %}
       <span class="image"><img src="{{include.image}}" alt="" /></span>
     {% endif %}
 
-    {% if include.carto-map-embed-link != null %}
-      <iframe width="99%" style="height: 90vh" frameborder="0" src="{{inlcude.carto-map-embed-link}}" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen=""></iframe>
-    {% endif %}
   </div>
 </section>
