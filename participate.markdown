@@ -1,6 +1,7 @@
 ---
 title: Participate
 date: 2017-01-26 15:40:00 Z
+position: 3
 ---
 
 Upcoming Meetings:
