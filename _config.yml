@@ -1,5 +1,5 @@
 ---
-title: Your awesome title
+title: Stoneham Open Space and Recreation Plan Update
 timezone: UTC
 collections:
   posts:
@@ -28,3 +28,7 @@ gems:
 exclude:
 - Gemfile
 - Gemfile.lock
+tagline: A plan to preserve and invest in Stoneham's community assets that make our
+  town a great place to live.
+sass:
+  sass_dir: assets/sass
