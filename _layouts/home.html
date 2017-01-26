@@ -4,16 +4,15 @@ layout: default
 
 <nav id="nav">
   <ul>
-    {% for section in site.sections %}
-      <li><a href="#intro" class="active">{{section.title}}</a></li>  
+    {% assign sorted_sections = site.sections | sort: 'position' %}
+    {% for section in sorted_sections %}
+      <li><a href="#{{ section.title | slugify }}" class="active">{{section.title}}</a></li>  
     {% endfor %}
   </ul>
 </nav>
 
 <div id="main">
-
-  {% for section in site.sections %}
-    {% include section.html content=section.content title=section.title %}
+  {% for section in sorted_sections %}
+    {% include section.html content=section.content title=section.title id=section.title image=section.image carto-map-embed-link=section.carto-map-embed-link %}
   {% endfor %}
-
 </div>
