@@ -1,5 +1,5 @@
 ---
-title: Your awesome title
+title: Stoneham Open Space and Recreation Plan Update
 timezone: UTC
 collections:
   posts:
@@ -28,5 +28,3 @@ gems:
 exclude:
 - Gemfile
 - Gemfile.lock
-sass:
-  sass_dir: assets/sass
