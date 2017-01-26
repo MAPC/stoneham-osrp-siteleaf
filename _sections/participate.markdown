@@ -1,8 +1,6 @@
 ---
 title: Participate
-date: 2017-01-26 15:40:00 Z
-position: 3
-layout: page
+date: 2017-01-26 15:54:00 Z
 ---
 
 Upcoming Meetings:

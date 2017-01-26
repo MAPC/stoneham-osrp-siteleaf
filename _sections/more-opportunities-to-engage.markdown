@@ -1,8 +1,6 @@
 ---
 title: More Opportunities to Engage
-date: 2017-01-26 15:41:00 Z
-position: 2
-layout: page
+date: 2017-01-26 15:54:00 Z
 ---
 
 Join our mailing list at [mapc.ma](http://mapc.ma/stonehamosrp-mail).
