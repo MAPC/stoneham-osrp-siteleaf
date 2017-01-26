@@ -13,7 +13,7 @@ layout: default
 <div id="main">
 
   {% for section in site.sections %}
-    {% include section.html content=section.content title=section.title id=section.title %}
+    {% include section.html content=section.content title=section.title id=section.title image=section.image %}
   {% endfor %}
 
 </div>
