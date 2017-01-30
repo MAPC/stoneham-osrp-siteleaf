@@ -16,9 +16,7 @@ There are several ways to participate in the process.
 ## **Attend an upcoming meeting:**
 
 * Feb 28, 6PM OSRP Steering Committee
-
 * Mar 28, 6PM OSRP Steering Committee
-
 * Mar 28, 7PM First public forum
 
 
