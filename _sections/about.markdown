@@ -10,7 +10,7 @@ image: "/uploads/IMG_6994.JPG"
 ### This project is funded by the Commonwealth’s Community Compact Grant and MAPC’s Technical Assistance Program. The project timeline begins in January 2017 and ends in June 2017. 
 
 ### Steering Committee Members:
-* George Seibold, Selectmen
+* George Seibold, Selectman
 * Megan Day, Conservation Commission
 * Rachel Renard, Conservation Commission
 * Steve McDonough, Open Space & Recreation Committee
