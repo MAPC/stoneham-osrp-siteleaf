@@ -17,7 +17,9 @@ carto-map-embed-link: https://mapc.carto.com/u/mystic/builder/7b538f5e-e1b5-11e6
 ## **3. Attend an upcoming meeting:**
 
 ### * Feb 28, 6PM OSRP Steering Committee
+
 ### * Mar 28, 6PM OSRP Steering Committee
+
 ### * Mar 28, 7PM First public forum
 
 ## **4. Map an Open Space or Recreation Asset**
