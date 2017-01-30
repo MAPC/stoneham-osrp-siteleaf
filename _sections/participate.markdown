@@ -21,5 +21,5 @@ There are several ways to participate in the process.
 
 ## **Map an Open Space or Recreation Asset**
 
-Use the map to tell us where Stoneham's open space and recreation assets are. Entries are updated every 15 minutes. Click  [here](https://app.localdata.com/mobile/#stoneham-osrp) to add to this map. 
+Use the map to tell us where Stoneham's open space and recreation assets are. Entries are updated every 15 minutes. Click  **[here]**(https://app.localdata.com/mobile/#stoneham-osrp) to add to this map. 
 
