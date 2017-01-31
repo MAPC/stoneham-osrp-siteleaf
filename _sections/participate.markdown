@@ -24,4 +24,4 @@ carto-map-embed-link: https://mapc.carto.com/u/mystic/builder/7b538f5e-e1b5-11e6
 
 ## **4. Map an Open Space or Recreation Asset**
 
-Use the map to tell us where Stoneham's open space and recreation assets are. Entries are updated every 15 minutes. Click  **[here](https://app.localdata.com/mobile/#stoneham-osrp target="_blank")** to add to this map.
+Use the map to tell us where Stoneham's open space and recreation assets are. Entries are updated every 15 minutes. Click  **<a href="https://app.localdata.com/mobile/#stoneham-osrp" target="_blank">here</a>** to add to this map.
