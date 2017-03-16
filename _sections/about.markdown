@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2017-01-26 15:53:00 Z
-position: 0
+position: 1
 image: "/uploads/IMG_6994.JPG"
 ---
 
