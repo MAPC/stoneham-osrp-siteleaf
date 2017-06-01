@@ -1,4 +1,18 @@
-# Jekyll*ized* version of Stellar by HTML5 UP
+# Stoneham Open Space Plan Update (Brochure Site)
+
+## Development
+`bundle install`
+
+`jekyll serve`
+
+## Deployment
+
+### Styling and structure changes:
+`git push origin master`
+
+### Content changes:
+Managed with Siteleaf
+
 
 *Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)*
 
