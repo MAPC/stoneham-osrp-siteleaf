@@ -10,9 +10,9 @@ carto-map-embed-link: https://mapc.carto.com/u/mystic/builder/7b538f5e-e1b5-11e6
 ## **1. Information**
 ![Slide1_v2.jpg](/uploads/Slide1_v2.jpg)
 
-## **2. Complete the survey**
+## **2. 2017 Stoneham Open Space and Recreation Plan Survey Results**
 
-Complete the survey using the window below or [click here to open the survey in full](http://mapc.ma/stonehamosrp-survey).
+[click here to see the survey results](http://mapc.ma/stonehamosrp-survey).
 
 <script>(function(t,e,o,s){var n,c,i;t.SMCX=t.SMCX||\[\],e.getElementById(s)||(n=e.getElementsByTagName(o),c=n\[n.length-1\],i=e.createElement(o),i.type="text/javascript",i.async=!0,i.id=s,i.src=\["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/gvkOfdMSpcq7Kt3g7tkW6n3jFiCo_2BLG4sb_2FiDReY3alxUfogCEDqSwsJRmjT5yhE.js"\].join(""),c.parentNode.insertBefore(i,c))})(window,document,"script","smcx-sdk");</script><br>
 
