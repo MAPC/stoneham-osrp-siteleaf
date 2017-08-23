@@ -8,8 +8,7 @@ carto-map-embed-link: https://mapc.carto.com/u/mystic/builder/7b538f5e-e1b5-11e6
 ## There are several ways to participate in the process.
 
 ## **1. Information**
-
-![Slide1-9f01f4.jpg](/uploads/Slide1-9f01f4.jpg)
+![Slide1_v2.jpg](/uploads/Slide1_v2.jpg)
 
 ## **2. Complete the survey**
 
