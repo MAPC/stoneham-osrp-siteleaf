@@ -9,7 +9,7 @@ carto-map-embed-link: https://mapc.carto.com/u/mystic/builder/7b538f5e-e1b5-11e6
 
 ## **1. Information**
 
-![Slide1.jpg](/uploads/Slide1.jpg)
+![Slide1-9f01f4.jpg](/uploads/Slide1-9f01f4.jpg)
 
 ## **2. Complete the survey**
 
